@@ -1,0 +1,6 @@
+D 'xtpqroot': Panel Quantile Unit Root Tests with Common Shocks & Structural Breaks Use xtpqroot With STATA 19
+D
+F _xtpqroot_cips.ado
+F _xtpqroot_fourier.ado
+F xtpqroot.ado
+F xtpqroot.sthlp
