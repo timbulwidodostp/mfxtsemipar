@@ -1,0 +1,2 @@
+# mfxtsemipar
+Mixed-frequency semiparametric regression with fixed knots Use mfxtsemipar With STATA 19
