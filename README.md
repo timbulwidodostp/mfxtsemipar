@@ -1,6 +1,8 @@
 # mfxtsemipar
 Mixed-frequency semiparametric regression with fixed knots Use mfxtsemipar With STATA 19
 
+https://www.youtube.com/watch?v=bWjtdMm8BrQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
